@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1670726754 source:c:\users\thecu\desktop\curso c++ wr kits\calculadora\calculadora\main.cpp
+	<iostream>
+	"calculadora.hpp"
+
+1670712628 source:c:\users\thecu\desktop\curso c++ wr kits\calculadora\calculadora\calculadora.cpp
+	<iostream>
+	<math.h>
+	"calculadora.hpp"
+
+1670712543 c:\users\thecu\desktop\curso c++ wr kits\calculadora\calculadora\calculadora.hpp
+
